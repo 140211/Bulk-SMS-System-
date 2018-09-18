@@ -1,0 +1,7 @@
+Here we use wamp server as Localhost server.
+
+To run the project first you have to start a localhost.
+Then run Index.php page.Then upload a .xls file from any directory.
+It will redircted into merge.php page.From the first dropdwon manu select any sheet and write your message by concating column from the maun.
+By pressing submit button you can send sms to the selected mobile number get from the excel sheet.
+You are done!
